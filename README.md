@@ -8,7 +8,7 @@ ProcessWire module for hiding pages for non-superusers.
 
 ## Changelog
 
-### 1.0.1 (30 March 2018)
+### 1.0.1 (31 March 2018)
 
 - Module renamed to prevent confusion
 
