@@ -1,12 +1,16 @@
-# Hide Admin Pages Module for ProcessWire 3.x
+# Hide Pages Module for ProcessWire 3.x
 
-ProcessWire module for hiding admin pages for non-superusers.
+ProcessWire module for hiding pages for non-superusers.
 
 ## Requirements
 
 - ProcessWire 3.x
 
 ## Changelog
+
+### 1.0.1 (30 March 2018)
+
+- Module renamed to prevent confusion
 
 ### 1.0.0 (30 March 2018)
 
